@@ -104,6 +104,22 @@ A detailed project case study is available here:
 
 **[AnnotateIQ Project Case Study (PDF)](docs/AnnotateIQ_Project_Case_Study.pdf)**
 
+
+## Project Structure
+
+```text
+annotateiq-portfolio-case-study/
+├── assets/
+│   ├── architecture diagram
+│   └── workflow screenshots
+├── docs/
+│   └── AnnotateIQ Project Case Study.pdf
+├── README.md
+├── REPOSITORY_SCOPE.md
+├── SECURITY.md
+├── LICENSE
+└── BEFORE_YOU_UPLOAD.txt
+
 ## Repository scope and intellectual property
 
 This repository is deliberately a **showcase repository**, not the implementation repository.
