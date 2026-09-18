@@ -25,6 +25,19 @@ AnnotateIQ is an end-to-end analytics and automation project designed to monitor
 
 The project combines **Python, Power BI, n8n, and Telegram** to transform operational records into decision-ready analytics and automated alerts.
 
+## Key Results
+
+| Metric | Result |
+|---|---:|
+| Tasks analyzed | 5,000 |
+| Initial quality score | 92.91% |
+| SLA compliance | 99.30% |
+| Completion rate | 98.87% |
+| Strong time anomalies detected | 21 |
+| Annotators affected | 14 |
+| Projects monitored | 5 |
+| Automated alert channel | Telegram |
+
 ![AnnotateIQ architecture](assets/annotateiq_architecture.png)
 
 ## What the project demonstrates
