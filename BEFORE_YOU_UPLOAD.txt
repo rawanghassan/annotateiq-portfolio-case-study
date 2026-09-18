@@ -1,0 +1,31 @@
+ANNOTATEIQ PUBLIC GITHUB CHECKLIST
+=================================
+
+This folder is designed to be the PUBLIC SHOWCASE only.
+
+SAFE TO UPLOAD FROM THIS FOLDER:
+- README.md
+- LICENSE
+- REPOSITORY_SCOPE.md
+- SECURITY.md
+- .gitignore
+- assets/
+- docs/AnnotateIQ_Project_Case_Study.pdf
+
+DO NOT COPY INTO THIS PUBLIC REPOSITORY:
+- AnnotateIQ_Dataset_v1.xlsx
+- Tasks_Clean.csv / Tasks_Clean.xlsx
+- Any full or sample dataset unless intentionally reviewed
+- Jupyter notebooks or Python source files
+- Power BI PBIX file
+- n8n workflow JSON export
+- Telegram bot token
+- Chat ID or credentials
+- .env files
+- Pickle / Parquet / checkpoint files
+- Any screenshot that exposes tokens, credentials, private URLs, or account details
+
+IMPORTANT:
+Public GitHub content can always be viewed, downloaded, screenshotted, or imitated.
+Copyright notices and withholding implementation files reduce risk but cannot
+technically guarantee that nobody will copy an idea.
