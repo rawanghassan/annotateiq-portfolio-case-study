@@ -1,7 +1,25 @@
-# AnnotateIQ
-## AI-Powered Annotation Quality & Operations Intelligence Platform
+<h1 align="center">AnnotateIQ</h1>
 
-> **Public portfolio showcase only.** The implementation repository, full datasets, Power BI source file, notebooks, automation export, credentials, and operational configuration are intentionally private.
+<p align="center">
+  <strong>AI-Powered Annotation Quality & Operations Intelligence Platform</strong>
+</p>
+
+<p align="center">
+  End-to-end analytics and automation for monitoring annotation quality, productivity, SLA performance, anomalies, and project economics.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Analytics-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow" alt="Power BI">
+  <img src="https://img.shields.io/badge/n8n-Automation-orange" alt="n8n">
+  <img src="https://img.shields.io/badge/Telegram-Automated%20Alerts-2CA5E0" alt="Telegram">
+  <img src="https://img.shields.io/badge/Status-Portfolio%20Showcase-success" alt="Status">
+</p>
+
+---
+
+> **Public portfolio showcase only.**  
+> The implementation repository, full datasets, Power BI source file, notebooks, automation export, credentials, and operational configuration are intentionally private.
 
 AnnotateIQ is an end-to-end analytics and automation project designed to monitor AI data-annotation operations across **quality, productivity, SLA performance, anomaly detection, and project economics**.
 
